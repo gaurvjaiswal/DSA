@@ -5,4 +5,8 @@
     int n;
     cin>>n;
     
+    cout<<"The value of n is "<<n<<endl;
+     return 0;
+   //   bojnjpojpo
+   
  }
