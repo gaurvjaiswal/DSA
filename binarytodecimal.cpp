@@ -40,6 +40,8 @@ int main(){
 
     }
 
-    cout << ans << endl;
-    
+    cout << ans << endl;git add .
+git commit -m "Daily DSA practice"
+git push origin main
+
 }
