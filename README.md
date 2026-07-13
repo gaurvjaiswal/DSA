@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/gaurvjaiswal/DSA/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -52,4 +53,9 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
