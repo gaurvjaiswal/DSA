@@ -4,43 +4,46 @@ public:
 
         vector<int> ans;
 
-        int rows = matrix.size();
-        int cols = matrix[0].size();
+        int row = matrix.size();
+        int col = matrix[0].size();
 
-        int top = 0;
-        int bottom = rows - 1;
-        int left = 0;
-        int right = cols - 1;
+        int count = 0;
+        int total = row * col;
 
-        while (top <= bottom && left <= right) {
+        int startingRow = 0;
+        int endingRow = row - 1;
+        int startingCol = 0;
+        int endingCol = col - 1;
+
+        while (count < total) {
 
             // Left -> Right
-            for (int i = left; i <= right; i++) {
-                ans.push_back(matrix[top][i]);
+            for (int index = startingCol; count < total && index <= endingCol; index++) {
+                ans.push_back(matrix[startingRow][index]);
+                count++;
             }
-            top++;
+            startingRow++;
 
             // Top -> Bottom
-            for (int i = top; i <= bottom; i++) {
-                ans.push_back(matrix[i][right]);
+            for (int index = startingRow; count < total && index <= endingRow; index++) {
+                ans.push_back(matrix[index][endingCol]);
+                count++;
             }
-            right--;
+            endingCol--;
 
             // Right -> Left
-            if (top <= bottom) {
-                for (int i = right; i >= left; i--) {
-                    ans.push_back(matrix[bottom][i]);
-                }
-                bottom--;
+            for (int index = endingCol; count < total && index >= startingCol; index--) {
+                ans.push_back(matrix[endingRow][index]);
+                count++;
             }
+            endingRow--;
 
             // Bottom -> Top
-            if (left <= right) {
-                for (int i = bottom; i >= top; i--) {
-                    ans.push_back(matrix[i][left]);
-                }
-                left++;
+            for (int index = endingRow; count < total && index >= startingRow; index--) {
+                ans.push_back(matrix[index][startingCol]);
+                count++;
             }
+            startingCol++;
         }
 
         return ans;
