@@ -17,6 +17,7 @@
 | [0009-palindrome-number](https://github.com/gaurvjaiswal/DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/gaurvjaiswal/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gaurvjaiswal/DSA/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/gaurvjaiswal/DSA/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gaurvjaiswal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/gaurvjaiswal/DSA/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
