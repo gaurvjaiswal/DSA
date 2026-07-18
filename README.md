@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/gaurvjaiswal/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gaurvjaiswal/DSA/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/gaurvjaiswal/DSA/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/gaurvjaiswal/DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,4 +82,16 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gaurvjaiswal/DSA/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gaurvjaiswal/DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gaurvjaiswal/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gaurvjaiswal/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
