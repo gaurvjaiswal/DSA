@@ -13,6 +13,7 @@
 | [0204-count-primes](https://github.com/gaurvjaiswal/DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gaurvjaiswal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gaurvjaiswal/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/gaurvjaiswal/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/gaurvjaiswal/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Math
 |  |
@@ -71,6 +72,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/gaurvjaiswal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/gaurvjaiswal/DSA/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gaurvjaiswal/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/gaurvjaiswal/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/gaurvjaiswal/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
 |  |
