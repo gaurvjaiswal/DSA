@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gaurvjaiswal/DSA/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/gaurvjaiswal/DSA/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/gaurvjaiswal/DSA/tree/master/0078-subsets) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gaurvjaiswal/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/gaurvjaiswal/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/gaurvjaiswal/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
