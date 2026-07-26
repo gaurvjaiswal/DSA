@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/gaurvjaiswal/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/gaurvjaiswal/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gaurvjaiswal/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gaurvjaiswal/DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gaurvjaiswal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -112,4 +113,5 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gaurvjaiswal/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/gaurvjaiswal/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
