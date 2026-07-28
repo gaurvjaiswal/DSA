@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/gaurvjaiswal/DSA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/gaurvjaiswal/DSA/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/gaurvjaiswal/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/gaurvjaiswal/DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurvjaiswal/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gaurvjaiswal/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/gaurvjaiswal/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/gaurvjaiswal/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gaurvjaiswal/DSA/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/gaurvjaiswal/DSA/tree/master/0367-valid-perfect-square) |
