@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/gaurvjaiswal/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/gaurvjaiswal/DSA/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/gaurvjaiswal/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurvjaiswal/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/gaurvjaiswal/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gaurvjaiswal/DSA/tree/master/0189-rotate-array) |
@@ -80,6 +81,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/gaurvjaiswal/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/gaurvjaiswal/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/gaurvjaiswal/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gaurvjaiswal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/gaurvjaiswal/DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurvjaiswal/DSA/tree/master/0540-single-element-in-a-sorted-array) |
