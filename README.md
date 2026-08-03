@@ -23,6 +23,7 @@
 | [0485-max-consecutive-ones](https://github.com/gaurvjaiswal/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurvjaiswal/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gaurvjaiswal/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/gaurvjaiswal/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gaurvjaiswal/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/gaurvjaiswal/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Math
@@ -89,6 +90,7 @@
 | [0367-valid-perfect-square](https://github.com/gaurvjaiswal/DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurvjaiswal/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gaurvjaiswal/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/gaurvjaiswal/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gaurvjaiswal/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/gaurvjaiswal/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
