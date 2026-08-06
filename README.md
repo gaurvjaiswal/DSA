@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gaurvjaiswal/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gaurvjaiswal/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/gaurvjaiswal/DSA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/gaurvjaiswal/DSA/tree/master/0046-permutations) |
@@ -39,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gaurvjaiswal/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/gaurvjaiswal/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/gaurvjaiswal/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurvjaiswal/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -135,5 +137,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gaurvjaiswal/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/gaurvjaiswal/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
