@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/gaurvjaiswal/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/gaurvjaiswal/DSA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/gaurvjaiswal/DSA/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/gaurvjaiswal/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/gaurvjaiswal/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/gaurvjaiswal/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -101,6 +102,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/gaurvjaiswal/DSA/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gaurvjaiswal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Enumeration
 |  |
@@ -113,6 +115,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/gaurvjaiswal/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurvjaiswal/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/gaurvjaiswal/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
