@@ -25,6 +25,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/gaurvjaiswal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/gaurvjaiswal/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurvjaiswal/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/gaurvjaiswal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gaurvjaiswal/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/gaurvjaiswal/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gaurvjaiswal/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gaurvjaiswal/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0560-subarray-sum-equals-k](https://github.com/gaurvjaiswal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/gaurvjaiswal/DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -144,4 +146,8 @@
 | ------- |
 | [0015-3sum](https://github.com/gaurvjaiswal/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/gaurvjaiswal/DSA/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/gaurvjaiswal/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
