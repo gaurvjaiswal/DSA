@@ -29,6 +29,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gaurvjaiswal/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/gaurvjaiswal/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gaurvjaiswal/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gaurvjaiswal/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gaurvjaiswal/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/gaurvjaiswal/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Math
@@ -102,6 +103,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gaurvjaiswal/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/gaurvjaiswal/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gaurvjaiswal/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gaurvjaiswal/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/gaurvjaiswal/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
 |  |
