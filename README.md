@@ -63,10 +63,12 @@
 | [0344-reverse-string](https://github.com/gaurvjaiswal/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/gaurvjaiswal/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/gaurvjaiswal/DSA/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/gaurvjaiswal/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gaurvjaiswal/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/gaurvjaiswal/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gaurvjaiswal/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gaurvjaiswal/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/gaurvjaiswal/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
