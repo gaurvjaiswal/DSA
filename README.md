@@ -28,6 +28,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/gaurvjaiswal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gaurvjaiswal/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/gaurvjaiswal/DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/gaurvjaiswal/DSA/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gaurvjaiswal/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gaurvjaiswal/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gaurvjaiswal/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -41,6 +42,7 @@
 | [0204-count-primes](https://github.com/gaurvjaiswal/DSA/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/gaurvjaiswal/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/gaurvjaiswal/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/gaurvjaiswal/DSA/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0053-maximum-subarray](https://github.com/gaurvjaiswal/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurvjaiswal/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/gaurvjaiswal/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/gaurvjaiswal/DSA/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -162,4 +165,16 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/gaurvjaiswal/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gaurvjaiswal/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gaurvjaiswal/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gaurvjaiswal/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
