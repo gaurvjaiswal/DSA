@@ -43,6 +43,7 @@
 | [0367-valid-perfect-square](https://github.com/gaurvjaiswal/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/gaurvjaiswal/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/gaurvjaiswal/DSA/tree/master/0877-stone-game) |
+| [1903-largest-odd-number-in-string](https://github.com/gaurvjaiswal/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0443-string-compression](https://github.com/gaurvjaiswal/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/gaurvjaiswal/DSA/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/gaurvjaiswal/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/gaurvjaiswal/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gaurvjaiswal/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gaurvjaiswal/DSA/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/gaurvjaiswal/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
